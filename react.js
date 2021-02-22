@@ -1,1 +1,1 @@
-this is test case for react js
+this is test case for react jss
